@@ -17,17 +17,14 @@ Getting Started
 To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/RinaGarg/web-dev-Designed3-ToDoList.git
+
 Navigate to the project directory:
-bash
-Copy code
 cd todo-app
+
 Open index.html in your web browser:
-bash
-Copy code
 open index.html
+
 Usage
 Add a Task: Enter the task description in the input field and click the "Add Task" button.
 Edit a Task: Click the edit (✏️) button next to the task you want to edit, update the task description, and confirm.
